@@ -1,0 +1,15 @@
+current directory: /home/berry/prj/sample_app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+/home/berry/.rbenv/versions/2.6.8/bin/ruby -I /home/berry/.rbenv/versions/2.6.8/lib/ruby/2.6.0 -r ./siteconf20210831-22555-1rtpaev.rb extconf.rb
+creating Makefile
+
+current directory: /home/berry/prj/sample_app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/berry/prj/sample_app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/berry/prj/sample_app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20210831-22555-1qae65b

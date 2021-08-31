@@ -1,0 +1,19 @@
+current directory: /home/berry/prj/sample_app/vendor/bundle/gems/byebug-9.0.6/ext/byebug
+/home/berry/.rbenv/versions/2.6.8/bin/ruby -I /home/berry/.rbenv/versions/2.6.8/lib/ruby/2.6.0 -r ./siteconf20210831-22555-ml3ytj.rb extconf.rb
+creating Makefile
+
+current directory: /home/berry/prj/sample_app/vendor/bundle/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/berry/prj/sample_app/vendor/bundle/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/berry/prj/sample_app/vendor/bundle/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20210831-22555-zt0tiw/byebug
