@@ -1,0 +1,15 @@
+current directory: /home/berry/prj/sample_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+/home/berry/.rbenv/versions/2.6.8/bin/ruby -I /home/berry/.rbenv/versions/2.6.8/lib/ruby/2.6.0 -r ./siteconf20210831-22555-14f2meh.rb extconf.rb
+creating Makefile
+
+current directory: /home/berry/prj/sample_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /home/berry/prj/sample_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/berry/prj/sample_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20210831-22555-1htrijd/skiptrace/internal
